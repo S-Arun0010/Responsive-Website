@@ -261,12 +261,10 @@ footer span{
         text-align: justify;
         color: #fff;
     } 
+   
     .headercontent p
     {
-        margin-bottom: 10%;
-    }
-    .headercontent p
-    {
+         margin-bottom: 10%;
       display: none;
     }
     .headercontent button{
